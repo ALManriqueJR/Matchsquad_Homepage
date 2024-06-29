@@ -228,3 +228,12 @@ a:active {
     padding:5px;
     width:auto;
   }     
+
+ .flex-container-form {
+    display: flex;
+    justify-content: space-around;
+ }
+
+ .col-frm {
+    width: 50%;
+ }
